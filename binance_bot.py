@@ -11,8 +11,8 @@ from binance.exceptions import BinanceAPIException, BinanceRequestException
 
 # ===== USER SETTINGS (UPDATE THESE!) =====
 # API Keys must be the long HMAC text strings from Binance
-API_KEY = "7K631AsiIT1bwSnkg04bnU6Z5kMhuDTx6a5PHYjihWvvfM6nqCfVbNPA2bkH2WJp"
-API_SECRET = "h8AhLwmvPkEdhuNwT39tSQVO79lcKO1X7U49x5TXV8lEGVsukc7PmjcrxyFAPQam"
+API_KEY = "POgvmlFM0wWHQJKd4yVrdPfGbYsSrjHoNUh3cjCZmA7oKimFsd6P8xuB3sqB0hZi"
+API_SECRET = "cpGAtcThiPQxaMx6Hs63CGbV91OflupvCPm4gjAfoI5p0sdX8leJH2XZaQp6XC7v"
 
 TESTNET = False       # False = Mainnet (real funds).
 SYMBOLS = ["BTCUSDT", "ETHUSDT", "BNBUSDT"]    # Trading pairs
